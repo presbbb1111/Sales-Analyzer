@@ -1,0 +1,31 @@
+name,category,price,stock,reorder_level
+Bananas (1 lb),Produce,0.59,140,50
+Gala Apples (1 lb),Produce,1.49,85,40
+Avocados,Produce,0.88,30,40
+Yellow Onions (1 lb),Produce,0.99,95,30
+Roma Tomatoes (1 lb),Produce,1.29,60,30
+Baby Spinach (5 oz),Produce,2.98,18,20
+Whole Milk (1 gal),Dairy,3.49,70,30
+Large Eggs (12 ct),Dairy,2.79,45,40
+Shredded Cheddar (8 oz),Dairy,2.50,55,20
+Greek Yogurt (32 oz),Dairy,4.99,22,15
+Butter (1 lb),Dairy,3.99,12,15
+White Bread,Bakery,1.99,48,25
+Flour Tortillas (10 ct),Bakery,2.29,80,30
+Bagels (6 ct),Bakery,3.49,15,12
+Chocolate Chip Cookies,Bakery,4.49,26,10
+Ground Beef (1 lb),Meat,5.49,35,25
+Chicken Breast (1 lb),Meat,3.99,28,30
+Bacon (12 oz),Meat,5.99,40,15
+Deli Turkey (1 lb),Meat,7.99,14,10
+Tortilla Chips,Snacks,3.29,64,20
+Potato Chips,Snacks,3.99,50,20
+Salsa (16 oz),Snacks,2.99,33,15
+Peanut Butter (16 oz),Snacks,2.79,42,15
+Granola Bars (6 ct),Snacks,3.49,9,12
+Paper Towels (6 rolls),Household,8.99,30,10
+Toilet Paper (12 rolls),Household,11.99,25,10
+Dish Soap,Household,2.99,38,10
+Laundry Detergent,Household,12.99,16,8
+Trash Bags (40 ct),Household,9.49,7,8
+Bottled Water (24 pk),Household,4.49,90,40
